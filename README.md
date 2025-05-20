@@ -12,4 +12,4 @@ En este documento incluimos las siguientes etiquetas:
 
 Para ver este proyecto, por favor clona el repositorio completo
 
-Creado por [Bruno Orsatti] (https://github.com/brunorsatti) - ¡Si te gusta este contenido no dudes en agradecer y contactarme para compartir ideas!
+Creado por [BrunOrsatti](https://github.com/BrunOrsattiAS) - ¡Si te gusta este contenido no dudes en agradecer y contactarme para compartir ideas!
